@@ -7,7 +7,7 @@ void main ()
   scanf ("%d",&year);
 
   if (year<0)
-    printf ("0");
+    printf ("not a valid year");
   
   else
   {
